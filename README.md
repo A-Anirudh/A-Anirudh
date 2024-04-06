@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aayanam Anirudh</h1>
 <h3 align="center">Code for future</h3>
 
-- 🔭 I’m currently working on **X-Health**
-
-- 🌱 I’m currently learning **FAST API and MERN Stack**
+- 🔭 I’m currently working on **UPSCMax**
 
 - 👨‍💻 All of my projects are available at [devbyanirudh.netlify.app](devbyanirudh.netlify.app)
 
-- 💬 Ask me about **Django, Python, Javascript, MongoDB, MySQL and more**
+- 💬 Ask me about **Django, Python, Javascript, MongoDB, MySQL, MERN and more**
 
 - 📫 How to reach me **aayanamanirudh@gmail.com**
 
 - 📄 Know about my experiences [https://cuvette.tech/app/student/profile/64ca931d7478a20854e1cc55](https://cuvette.tech/app/student/profile/64ca931d7478a20854e1cc55)
 
-- ⚡ Fun fact **My humour level is higher than your IQ**
+- ⚡ Fun fact **My humor level is higher than your IQ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
