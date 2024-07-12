@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://cuvette.tech/app/student/profile/64ca931d7478a20854e1cc55](https://cuvette.tech/app/student/profile/64ca931d7478a20854e1cc55)
 
-- ⚡ Fun fact **My humor level is higher than your IQ**
+- ⚡ Fun fact **I am from Mars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
