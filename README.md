@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayanam Anirudh</h1>
 <h3 align="center">Code for future</h3>
 
-- 🔭 I’m currently working on **UPSCMax**
+- 🔭 I’m currently working on **God Knows What**
 
 - 👨‍💻 All of my projects are available at [devbyanirudh.netlify.app](devbyanirudh.netlify.app)
 
